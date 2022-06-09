@@ -2,7 +2,7 @@
 const Header = () => (
   <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
     <div className="container">
-      <a href="#"><img style={{'height': 'auto', 'width': '100px'}} src="./assets/images/logo.png" /></a>
+      <a href="#"><img style={{'height': 'auto', 'width': '100px'}} src="./assets/images/logo.png" alt='logo-image' /></a>
       <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>

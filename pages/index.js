@@ -21,7 +21,7 @@ export default function Home() {
           <Image src={BannerImage}  alt='Banner Image' />
           <div className={styles.bannerText}>
             <h2>
-              <span className={styles.bannerMainHeading}>The Shop Theme You've Been Waiting For.</span>
+              <span className={styles.bannerMainHeading}>The Shop Theme You have Been Waiting For.</span>
             </h2>
             <div>
               <h3>
