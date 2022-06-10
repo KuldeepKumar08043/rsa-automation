@@ -28,9 +28,9 @@ export default function Home() {
                 <span className={styles.bannerSubHeading}>Suprema is a powerful multipurpose theme for eCommerce that lets you quickly set up and launch an awesome online shop.</span>
               </h3>
             </div>
-            <div>
+            {/* <div>
               <button className={styles.bannerBtn}>View Home Pages</button>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className={styles.content}>
